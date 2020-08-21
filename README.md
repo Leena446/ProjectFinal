@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # volunteer_ambassadors_admin
 
 A new Flutter application.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ProjectFinal
+>>>>>>> 25fc4cd4fd7d4cd69c18011a4644716988a06508
